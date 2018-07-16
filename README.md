@@ -10,9 +10,10 @@ https://www.chef.io/
 ![bender](https://www.reactiongifs.us/wp-content/uploads/2016/04/remember_me_futurama.gif)
 
 Here is what you'll need to participate in this challenge:
-ChefDK:  https://downloads.chef.io/chefdk
-Vagrant: https://www.vagrantup.com/downloads.html
-VirtualBox: https://www.virtualbox.org/wiki/Downloads
+
+- ChefDK:  https://downloads.chef.io/chefdk
+- Vagrant: https://www.vagrantup.com/downloads.html
+- VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
 #### Challenge:
 This cookbook lacks a fundamental part of Chef functionality, which is
