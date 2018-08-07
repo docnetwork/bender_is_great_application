@@ -1,8 +1,8 @@
 name 'bender_is_great_application'
 maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer_email 'patrick@docnetwork.org'
 license 'All Rights Reserved'
-description 'Installs/Configures bender_is_great_application'
+description 'DocNetwork Infrastructure Engineer application cookbook.'
 long_description 'Installs/Configures bender_is_great_application'
 version '0.1.0'
 chef_version '>= 12.14' if respond_to?(:chef_version)

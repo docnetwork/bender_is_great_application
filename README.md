@@ -55,6 +55,8 @@ Commands to note:
 - `kitchen destroy`: Destroys the VM.
 - `kitchen login`: SSH into VM managed by cookbook.
 
+To complete this challenge, please download the cookbook and send a zipped revision to patrick@docnetwork.org.
+
 There are a lot of different resources available, but don't fret over them.  We
 will be focusing on the simpler parts of Chef to grasp these concepts. Resources
 To start, I advise looking into `user`, `group`, `apt_package`, and `template` resources.
