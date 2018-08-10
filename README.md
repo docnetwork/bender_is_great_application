@@ -55,7 +55,7 @@ Commands to note:
 - `kitchen destroy`: Destroys the VM.
 - `kitchen login`: SSH into VM managed by cookbook.
 
-To complete this challenge, please download the cookbook and send a zipped revision to patrick@docnetwork.org.
+To complete this challenge, please download the cookbook and send a zipped revision to patrick@docnetwork.org.  We'll give you **2 weeks** to complete and submit the challenge.
 
 There are a lot of different resources available, but don't fret over them.  We
 will be focusing on the simpler parts of Chef to grasp these concepts. Resources
@@ -75,3 +75,5 @@ instructions as you approach different BONUS challenges inside this cookbook.
   - https://docs.chef.io/run_lists.html
 - Write unit tests for your cookbook using ChefSpec in ./spec/unit/recipes/recipe_name_spec.rb
   - https://github.com/chefspec/chefspec
+- More advanced, but use a Role.
+  - https://docs.chef.io/roles.html
